@@ -9,7 +9,7 @@
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║  ⚡ MERN & PERN Stack Specialist                               ║
-║  🎯 React.js · Express.js · MongoDB · PostgreSQL               ║
+║  🎯 React.js · Express.js · MongoDB · PostgreSQL  MySql             ║
 ║  🚀 E-Learning · eCommerce · Social Media · Food Delivery      ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
